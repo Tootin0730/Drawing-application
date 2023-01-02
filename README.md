@@ -10,7 +10,7 @@ ___
 
 .
 
-1. Implementing line drawing, coloring, erasing, and canvas emptying functions using the **Canvas API.**
+1. Line drawing, coloring, erasing, and canvas emptying functions using the **Canvas API.**
 
 https://user-images.githubusercontent.com/84171352/210187072-24ed88b7-1208-4e18-91df-b03d86ea4e35.mp4
 
